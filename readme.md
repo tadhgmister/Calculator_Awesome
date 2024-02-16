@@ -1,6 +1,8 @@
 # Calculator readme
 
+THIS IS AN OUTDATED VERSION
 
+I copied this to github from an old harddrive thinking it was the same calculator I used heavily in university physics and math that supported latex rendering, using sympy to setup equations, carrying units and doing error propogation etc. But it seems to be probably the earliest version I would have put to version control. So as is this repo is pretty much useless. 
 
 ## Sections
 
